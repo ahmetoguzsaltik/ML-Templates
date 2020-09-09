@@ -1,2 +1,2 @@
 # ML-Templates
-Well-prepared codes for Machine Learning algorithms
+Basic and well-prepared codes for Machine Learning algorithms
