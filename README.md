@@ -1,2 +1,2 @@
 # ML-Templates
-Basic and well-prepared codes for Machine Learning algorithms
+Basic and well-prepared repo for Machine Learning algorithms
